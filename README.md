@@ -1,2 +1,2 @@
 # kava-chat
-smal web application based on springBoot and vaadin framework
+small web application based on springBoot and vaadin framework
